@@ -34,13 +34,30 @@
   list-style-type: none;
   padding-top: 10px;
   padding-bottom: 13px;
+  color: #4a4a4a;
+  font-size: 16px;
   ;
 }
 .nav-blog {
   display: flex;
   padding-right: 20px;
-  font: #4a4a4a;
+  
 }
 .nav-contact {
     display: flex;
+}
+.page{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3CDBC0;
+    color: #FFFFFF;
+}   
+.title{
+    font-size: 30px;
+}
+.title-item{
+    text-align: center;
+    display: block;
 }
