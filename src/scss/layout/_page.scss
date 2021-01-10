@@ -1,30 +1,17 @@
 .main {
-  background-color: #3cdbc0;
-  color: #ffffff;
+  background-color: $color-bg-main;
+  color: $color-font-main;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-
-.menu {
-  padding: 0;
-}
-
-.menu-item {
-  display: inline-block;
-}
-
-.menu-link {
-  text-decoration: none;
-  color: #4a4a4a;
-  text-transform: uppercase;
-  padding: 10px;
-}
-
 .title-item {
   display: block;
   text-transform: capitalize;
   text-align: center;
   font-size: 30px;
+  @include tablet() {
+    font-size: 40px;
+  }
 }
