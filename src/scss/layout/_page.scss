@@ -1,7 +1,30 @@
-body {
-  padding: 2rem;
+.main {
+  background-color: #3cdbc0;
+  color: #ffffff;
   height: 100vh;
-  background-image: url('../images/bg-adalab.png');
-  background-color: $color-bg;
-  font-family: $font-main;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  padding: 0;
+}
+
+.menu-item {
+  display: inline-block;
+}
+
+.menu-link {
+  text-decoration: none;
+  color: #4a4a4a;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.title-item {
+  display: block;
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 30px;
 }
