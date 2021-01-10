@@ -31,7 +31,7 @@
   },
   "images": {
     "src": "src/images/**/*.{gif,jpg,jpeg,JPG,JPEG,png,svg}",
-    "dest": "public/assets/images/",
+    "dest": "public/assets/img/",
     "dist": "docs/assets/images/"
   },
   "watch": {
