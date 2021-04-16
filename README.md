@@ -1,11 +1,9 @@
 # Creando diversidad digital
 
-¡Mi primera web!
+[¡Mi primera web!][beta]
 
 Resultado de la evaluación del primer módulo en el bootcamp de [Adalab, escuela digital](https://adalab.es/).
 Está creada a partir de un diseño proporcionado.
-
-http://beta.adalab.es/modulo-1-evaluacion-intermedia-saramartara/
 
 ## Datos técnicos
 
@@ -32,7 +30,7 @@ Si tienes sugerencias, dudas, ideas o te apetece comentar algo, adelante por fav
 
 # Creating Digital Diversity
 
-¡Miy first web!
+[My first web!][beta]
 
 As a result of a exercise at Adalab bootcamp. It is created from a given desing.
 
@@ -58,3 +56,5 @@ git clone
 ## Feedback and contribution:
 
 Are you interested in the project? Any suggestion, ideas or comments are very welcome. You can do it through the issues in this repository or [my email](mailto:saramartinezaragon@gmail.com) or [linkedin](https://www.linkedin.com/in/saramartara/). Thanks!
+
+[beta]: https://saramartara.github.io/Creando-diversidad-digital_module-1/
